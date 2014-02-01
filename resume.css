@@ -1,0 +1,20 @@
+html {
+	background: url(mountains.jpg) no-repeat center center fixed; 
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+}
+body {
+	font-family: Verdana, sans-serif;
+	letter-spacing: -1.5px;
+}
+header{
+	text-align: center;
+}
+h1 {
+	font-size: 30px;
+}
+h2 {
+	font-size: 28px;
+}
