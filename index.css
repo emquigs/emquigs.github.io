@@ -8,7 +8,9 @@ html {
 body {
 	font-family: Verdana, sans-serif;
 	letter-spacing: -1.5px;
+	text-align: center;
 }
 header{
 	text-align: center;
+	color: white;
 }
