@@ -13,6 +13,7 @@ body {
 header{
 	color: white;
 	font-size: 40px;
+	text-shadow: 1px 1px gray;
 }
 a:link {
 	text-decoration: none;
