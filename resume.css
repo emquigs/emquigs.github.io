@@ -6,7 +6,7 @@ html {
     -o-background-size: cover;
 }
 body {
-	font-family: Verdana, sans-serif;
+	font-family: Damascus;
 	letter-spacing: -1.5px;
 }
 header{
@@ -29,4 +29,8 @@ h2 {
 }
 div {
 	background-color: rgba(255,255,255,0.55);
+}
+p.sections {
+	font-weight: bold;
+	text-align: left;
 }
