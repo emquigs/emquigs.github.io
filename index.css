@@ -32,7 +32,7 @@ a.headText:visited {
 	color: white;
 }
 
-a.headText:hover {
+.headText:hover {
 	color: black;
 }
 
