@@ -38,6 +38,9 @@ a.headText:visited {
 	text-decoration: none;
 	margin:0 15px;
 }
+.links:hover {
+	color:white;
+}
 
 p {
 	color: black;
