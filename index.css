@@ -15,16 +15,20 @@ header{
 	font-size: 40px;
 	text-shadow: 1px 1px gray;
 }
+.mainImg {
+	width:240px;
+	height:160px;
+}
 
 a {
 	text-decoration: none;
 }
 
-a#headText {
+a.headText {
 	color:white;
 }
 
-#headText:visited {
+a.headText:visited {
 	color: white;
 }
 
@@ -46,11 +50,6 @@ h2 {
 }
 #bio {
 	background-color: rgba(255,255,255,0.55);
-}
-
-#mainImg {
-	width:240px;
-	height:160px;
 }
 #resume {
 	background-color: rgba(255,255,255,0.55);
