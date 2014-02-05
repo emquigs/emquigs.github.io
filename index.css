@@ -15,18 +15,26 @@ header{
 	font-size: 40px;
 	text-shadow: 1px 1px gray;
 }
-a:link {
+
+a {
 	text-decoration: none;
+}
+
+a#headText {
+	color:white;
+}
+
+#headText:visited {
 	color: white;
 }
-a:visited {
-	color: white;
-}
-#links {
+
+.links {
 	color: black;
 	font-size: 20px;
 	text-decoration: none;
+	margin:0 15px;
 }
+
 p {
 	color: black;
 }
@@ -38,4 +46,17 @@ h2 {
 }
 #bio {
 	background-color: rgba(255,255,255,0.55);
+}
+
+#mainImg {
+	width:240px;
+	height:160px;
+}
+#resume {
+	background-color: rgba(255,255,255,0.55);
+	text-align: left;
+}
+p.sections {
+	font-weight: bold;
+	text-align: left;
 }
