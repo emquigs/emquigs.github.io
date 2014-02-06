@@ -9,7 +9,7 @@ body {
 header{
 	color: white;
 	font-size: 40px;
-	text-shadow: 1px 1px gray;
+	font-weight: bold;
 }
 .mainImg {
 	width:240px;
