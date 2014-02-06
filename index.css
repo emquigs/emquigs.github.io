@@ -3,7 +3,7 @@ html {
     background-size: cover;
 }
 body {
-	font-family: Damascus;
+	font-family: Avenir;
 	text-align: center;
 }
 header{
@@ -21,7 +21,6 @@ header{
 
 a {
 	text-decoration: none;
-	font-family: Avenir;
 }
 
 a.headText {
@@ -37,7 +36,6 @@ a.headText:visited {
 }
 
 .links {
-	font-family: Avenir;
 	color: black;
 	font-size: 20px;
 	text-decoration: none;
