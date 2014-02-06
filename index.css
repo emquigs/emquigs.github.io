@@ -21,11 +21,11 @@ header{
 
 a {
 	text-decoration: none;
+	font-family: Avenir;
 }
 
 a.headText {
 	color:white;
-	font-family: Avenir;
 }
 
 a.headText:visited {
