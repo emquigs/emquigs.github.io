@@ -1,15 +1,9 @@
-@font-face {
-    font-family: "Avenir";
-    font-style: normal;
-    src: local(Avenir Light), local(Avenir-Light), url(Avenir.ttc) format('opentype')
-}
-
 html {
 	background: url(mountains.JPG) no-repeat center center fixed; 
     background-size: cover;
 }
 body {
-	font-family: Avenir;
+	font-family: Avenir, "Century Gothic";
 	text-align: center;
 }
 header{
