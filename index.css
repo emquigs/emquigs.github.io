@@ -1,3 +1,8 @@
+@font-face {
+    font-family: "Avenir";
+    src: url(Avenir.ttc) format("truetype");
+}
+
 html {
 	background: url(mountains.JPG) no-repeat center center fixed; 
     background-size: cover;
