@@ -1,6 +1,7 @@
 @font-face {
     font-family: "Avenir";
-    src: url(Avenir.ttc) format("truetype");
+    src: local('Avenir Light'), local('Avenir-Light'), url('Avenir.ttc')
+    font-weight: normal;
 }
 
 html {
