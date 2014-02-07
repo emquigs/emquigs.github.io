@@ -69,4 +69,5 @@ h2 {
 p.sections {
 	font-weight: bold;
 	text-align: left;
+	margin-bottom: -12px;
 }
