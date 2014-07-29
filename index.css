@@ -2,14 +2,17 @@ html {
 	background: url(mountains.JPG) no-repeat center center fixed; 
     background-size: cover;
 }
+
 body {
 	font-family: Avenir, "Century Gothic";
 	text-align: center;
 }
+
 header{
 	color: white;
 	font-size: 40px;
 }
+
 .mainImg {
 	width:240px;
 	height:160px;
@@ -39,6 +42,7 @@ a.headText:visited {
 	text-decoration: none;
 	margin:0 15px;
 }
+
 .links:hover {
 	color:white;
 }
@@ -46,28 +50,34 @@ a.headText:visited {
 p {
 	color: black;
 }
+
+p.sections {
+	font-weight: bold;
+	text-align: left;
+	margin-bottom: -12px;
+}
+
 h1 {
 	font-size: 30px;
 }
+
 h2 {
 	font-size: 20px;
 }
+
 #bio {
 	background-color: rgba(255,255,255,0.55);
 	border-radius: 4px;
 	margin:0 90px;
 }
+
 #resume {
 	background-color: rgba(255,255,255,0.55);
 	border-radius: 4px;
 	text-align: left;
 	margin:0 90px;
 }
+
 #Text{
 	padding: 10px 30px;
-}
-p.sections {
-	font-weight: bold;
-	text-align: left;
-	margin-bottom: -12px;
 }
